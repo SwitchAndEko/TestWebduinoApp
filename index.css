@@ -1,0 +1,12 @@
+.btn {
+  width: 120px;
+  font-size: 24px;
+  text-align: middle;
+  outline: none;
+  margin: 0 10px 10px 0;
+  pointer-events: auto!important;
+}
+
+button:hover {
+  box-shadow: 2px 2px 5px #888;
+}
